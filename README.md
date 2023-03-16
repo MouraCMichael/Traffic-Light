@@ -13,7 +13,9 @@ This traffic light was retired from duty form the intersection of 8th Street and
 
 All remining paint was removed from the aluminum housings and repainted.  New reflectors and bulb jacks were installed, along with new bulbs.  An Arduino Uno was used in conjunction with 3 relays to control the lights operation while still using 120V/60Htz wall power.  A 120V to 5V AC to DC converter (up to 2 Amps) was used to provide a stabil power source for the microcontroller.  
 
-To offer some aditional features to the project a rotary encoder was fixed to the traffic light housing along with a master power switch.  Spining the rotary encoder enables the user to adjust the durration of the lights while sequencing.  This setting is saved in the Arduino and is loaded into the progam when powered on.  Clicking the button of the encoder changes the light mode from constant red, constant yellow, constant green, all lights constant or sequencing.    
+To offer some aditional features to the project a rotary encoder was fixed to the traffic light housing along with a master power switch.  Spining the rotary encoder enables the user to adjust the durration of the lights while sequencing.  This setting is saved in the Arduino and is loaded into the progam when powered on.  Clicking the button of the encoder changes the light mode from constant red, constant yellow, constant green, all lights constant or sequencing.   
+
+The traffic light is mounted on a 4' galvanized pipe pedistal using standard pipe fitings but can be easily removed and wall mounted.
 
 
 Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
