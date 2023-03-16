@@ -1,4 +1,4 @@
-# Trafic-Light
+# Traffic-Light
 Refurbished traffic light operating on an Arduino Uno with adjustable light modes and settings via rotary encoder.
 
 
@@ -8,10 +8,8 @@ Refurbished traffic light operating on an Arduino Uno with adjustable light mode
 
 
 
+
 <p align="center">
-
-
-
 
 <br/>
 <br/>
