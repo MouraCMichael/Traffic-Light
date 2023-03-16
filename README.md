@@ -1,18 +1,28 @@
 # Traffic-Light
 Refurbished traffic light operating on an Arduino Uno with adjustable light modes and settings via rotary encoder.
 
+<br/>
 
-## Description
+## Contributors: 
+Corey Moura
+
+<br/>
+
+# Description
+This traffic light was retired from duty form the intersection of 8th Street and Garfield in Traverse City, MI and was aquired through the city.  The traffic light had been sitting around outside for years and was in pretty rough shape.  
+
+All remining paint was removed from the aluminum housings and repainted.  New reflectors and bulb jacks were installed, along with new bulbs.  An Arduino Uno was used in conjunction with 3 relays to control the lights operation while still using 120V/60Htz wall power.  A 120V to 5V AC to DC converter (up to 2 Amps) was used to provide a stabil power source for the microcontroller.  
+
+To offer some aditional features to the project a rotary encoder was fixed to the traffic light housing along with a master power switch.  Spining the rotary encoder enables the user to adjust the durration of the lights while sequencing.  This setting is saved in the Arduino and is loaded into the progam when powered on.  Clicking the button of the encoder changes the light mode from constant red, constant yellow, constant green, all lights constant or sequencing.    
 
 
+Find me on [LinkedIn](https://www.linkedin.com/in/corey-moura)   ---->  https://www.linkedin.com/in/corey-moura
 
-
-
+<br/>
+<br/>
+<br/>
 
 <p align="center">
-
-<br/>
-<br/>
 
 <img width="400" height=”550” alt="screen shot 2018-11-08 at 6 02 39 pm" src="https://user-images.githubusercontent.com/37875517/225651801-c27382d9-47ba-4a46-bab9-425d51820b02.JPG">
 
